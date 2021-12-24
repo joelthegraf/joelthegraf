@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi, I'm Joel 👋🏼
 
-<!--
-**joelthegraf/joelthegraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am a 3rd year IT apprentice from Switzerland.**
 
-Here are some ideas to get you started:
+I'm currently doing an apprenticeship at Swisscom.
+There I have the possibility to switch to different projects where I can gain a lot of knowledge.
+Beside during my apprenticeship I also like gain knowledge while working on private projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills 🔧
+
+If I had to mention some of my skills I would talk about these.
+
+- Go, JavaScript, Python, Java, Groovy and some more
+- Docker, Kubernetes
+- Jenkins, Camunda
+- Linux, VIM
+- Application Security
+
+Feel free to ask me about them 😎.
+
+## Social
+
+- 📃 [LinkedIn](www.linkedin.com/in/joel-graf)
+- ⚙ [Codewars](https://www.codewars.com/users/joelthegraf)
+- 🔒 [TryHackMe](https://tryhackme.com/p/joelthegraf)
