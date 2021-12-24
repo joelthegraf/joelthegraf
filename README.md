@@ -2,9 +2,8 @@
 
 **I am a 3rd year IT apprentice from Switzerland.**
 
-I'm currently doing an apprenticeship at Swisscom.
-There I have the possibility to switch to different projects where I can gain a lot of knowledge.
-Beside during my apprenticeship I also like gain knowledge while working on private projects.
+I'm currently doing an apprenticeship at Swisscom where I have the possibility to switch to different projects and gain a lot of knowledge.
+Beside during my apprenticeship I also like to gain knowledge while working on private projects.
 In my freetime I like to surf on the Aare (a river in Switzerland), work on my car, go to the gym, ski in snowparks and hangout with my friends.
 
 ## Skills 🔧
