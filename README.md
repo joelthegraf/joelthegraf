@@ -12,7 +12,7 @@ If I had to mention some of my skills I would talk about these.
 
 - Go, JavaScript, Python, Java, Groovy and some more
 - Docker, Kubernetes
-- Jenkins, Camunda
+- Jenkins, ArgoCD, Camunda
 - Linux, VIM
 - Application Security
 
